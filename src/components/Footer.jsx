@@ -11,7 +11,6 @@ function Footer() {
   return (
     <footer style={footerStyle}>
       <p style={{ margin: 0, fontWeight: 'bold' }}>Web 2 - Erick Sempertegui Flores</p>
-      <small>© 2025 Proyecto Navideño</small>
     </footer>
   );
 }
